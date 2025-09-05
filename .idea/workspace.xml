@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc242320-7d01-40bb-98a7-4117458c34a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="32CbMKmVuZxxIMLQUSFZSdkrw3E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Workspace/CRMTestAutomation/src/main/java/com/crm/qa/testdata",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.40689656"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workspace\CRMTestAutomation\src\main\java\com\crm\qa\testdata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\CRMTestAutomation\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Workspace/CRMTestAutomation/src/main/resources/testng.xml">
+    <configuration name="C:/Workspace/CRMTestAutomation/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CRMTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashBoardTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CRMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.DashBoardTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashBoardTest.verifyTheDashboardLabelTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CRMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.DashBoardTest" />
+      <option name="METHOD_NAME" value="verifyTheDashboardLabelTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashBoardTest.verifyTheMoveToDashBoreMenu" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CRMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.DashBoardTest" />
+      <option name="METHOD_NAME" value="verifyTheMoveToDashBoreMenu" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashBoardTest.verifyTheUserName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CRMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.DashBoardTest" />
+      <option name="METHOD_NAME" value="verifyTheUserName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Workspace/CRMTestAutomation/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.DashBoardTest.verifyTheUserName" />
+        <item itemvalue="TestNG.DashBoardTest" />
+        <item itemvalue="TestNG.DashBoardTest.verifyTheDashboardLabelTest" />
+        <item itemvalue="TestNG.DashBoardTest.verifyTheMoveToDashBoreMenu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc242320-7d01-40bb-98a7-4117458c34a5" name="Changes" comment="" />
+      <created>1756927452077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756927452077</updated>
+    </task>
+    <servers />
+  </component>
+</project>

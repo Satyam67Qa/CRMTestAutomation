@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Workspace/CRMTestAutomation">
+        <classes>
+            <class name="com.crm.qa.testcases.LoginPageTest">
+                <methods>
+                    <include name="loginPageTitleTest"/>
+                    <include name="CRMLOGOImageTest"/>
+                    <include name="loginTest"/>
+                </methods>
+            </class>
+
+            <class name="com.crm.qa.testcases.HomePageGetStartedTest">
+                <methods>
+                    <include name="verifyHomePageGetStartedTitleTest"/>
+                    <include name="verifyPageLabelTest"/>
+                    <include name="verifyTheMenu"/>
+                    <include name="verifyToClickOnDashBoard"/>
+                </methods>
+            </class>
+
+            <class name="com.crm.qa.testcases.DashBoardTest">
+                <methods>
+                    <include name="verifyTheDashboardLabelTest"/>
+                    <include name="verifyTheUserName"/>
+                    <include name="verifyTheMoveToDashBoreMenu"/>
+                </methods>
+            </class>
+
+
+        </classes>
+    </test>
+</suite>
