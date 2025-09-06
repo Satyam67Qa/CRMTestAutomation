@@ -21,6 +21,9 @@ public class LoginPage extends TestBase {
     @FindBy(id = "vow-login-logo")
     WebElement crmLogo;
 
+    @FindBy(className = "notification-box-description")
+    WebElement errorMessage;
+
     //step 9 initializing the page objects
     public LoginPage() {
         // used initElements method to inilizied the web elemwnt
@@ -34,6 +37,7 @@ public class LoginPage extends TestBase {
     }
 
     public boolean validateCRMLOGOImage() {
+
         return crmLogo.isDisplayed();
     }
 
@@ -44,6 +48,14 @@ public class LoginPage extends TestBase {
 
         // step 11 Here used return with new object of next page (wanted to land on new page )
         return new HomePageGetStartedPage();
+    }
+    public void unableTologin(String un , String pwd){
+        userName.sendKeys(un);
+        password.sendKeys(pwd);
+        signInButton.click();
+    }
+    public String errorMessageAfterInvalidLogin(){
+       return errorMessage.getText();
     }
 
 }

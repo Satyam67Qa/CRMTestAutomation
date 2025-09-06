@@ -19,7 +19,7 @@ import java.io.IOException;
 public class TestUtil extends TestBase {
     // step 5 PAGE_LOAD_TIMEOUT,IMPLICIT_WAIT we can define these two here as well as config.properties
     public static long PAGE_LOAD_TIMEOUT =20;
-    public static long IMPLICIT_WAIT =10;
+    public static long IMPLICIT_WAIT =20;
 
     public static String TESTDATA_SHEET_PATH = "C:/Workspace/CRMTestAutomation/src/main/java/com/crm/qa/testdata/FacebookReg.xlsx";
 

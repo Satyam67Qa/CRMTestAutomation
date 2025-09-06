@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc242320-7d01-40bb-98a7-4117458c34a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/config/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/util/TestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/util/TestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/LoginPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <recent name="C:\Workspace\CRMTestAutomation\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Workspace/CRMTestAutomation/src/main/resources/testng.xml">
+  <component name="RunManager" selected="TestNG.LoginPageTest.invalidLoginTest">
     <configuration name="C:/Workspace/CRMTestAutomation/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CRMTest" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
@@ -99,24 +98,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DashBoardTest.verifyTheMoveToDashBoreMenu" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CRMTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.crm.qa.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.DashBoardTest" />
-      <option name="METHOD_NAME" value="verifyTheMoveToDashBoreMenu" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DashBoardTest.verifyTheUserName" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CRMTest" />
       <extension name="coverage">
@@ -135,13 +116,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoginPageTest.invalidLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CRMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.LoginPageTest" />
+      <option name="METHOD_NAME" value="invalidLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginPageTest.invalidLoginTest" />
         <item itemvalue="TestNG.C:/Workspace/CRMTestAutomation/src/main/resources/testng.xml" />
         <item itemvalue="TestNG.DashBoardTest.verifyTheUserName" />
         <item itemvalue="TestNG.DashBoardTest" />
         <item itemvalue="TestNG.DashBoardTest.verifyTheDashboardLabelTest" />
-        <item itemvalue="TestNG.DashBoardTest.verifyTheMoveToDashBoreMenu" />
       </list>
     </recent_temporary>
   </component>

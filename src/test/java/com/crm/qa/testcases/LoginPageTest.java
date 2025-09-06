@@ -50,6 +50,14 @@ public class LoginPageTest extends TestBase {
         homePageGetStarted = loginPage.login(properties.getProperty("username"), properties.getProperty("password"));
         Thread.sleep(4000);
     }
+    @Test(priority = 4)
+    public void invalidLoginTest() throws InterruptedException {
+         loginPage.unableTologin(properties.getProperty("invalid_username"), properties.getProperty("invalid_password"));
+         Thread.sleep(3000);
+        String unableToLoginErrorMessage = loginPage.errorMessageAfterInvalidLogin();
+        System.out.println(unableToLoginErrorMessage);
+         Assert.assertEquals(unableToLoginErrorMessage,properties.getProperty("expected_error"),"Error message not matched");
+    }
 
     @AfterMethod
     public void tearDown()
