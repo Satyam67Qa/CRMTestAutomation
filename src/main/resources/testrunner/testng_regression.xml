@@ -1,0 +1,37 @@
+<suite name="CRM Application Test Automation Test Suite">
+
+    <listeners>
+        <listener class-name="com.crm.qa.listener.ExtentReportCustomListener">
+        </listener>
+    </listeners>
+
+    <test name="CRM App Test Cases">
+
+        <classes>
+            <class name="com.crm.qa.testcases.LoginPageTest">
+                <methods>
+                    <include name="loginPageTitleTest"/>
+                    <include name="CRMLOGOImageTest"/>
+                    <include name="loginTest"/>
+                </methods>
+            </class>
+
+<!--            <class name="com.crm.qa.testcases.HomePageGetStartedTest">-->
+<!--                <methods>-->
+<!--                    <include name="verifyHomePageGetStartedTitleTest"/>-->
+<!--                    <include name="verifyPageLabelTest"/>-->
+<!--                    <include name="verifyTheMenu"/>-->
+<!--                    <include name="verifyToClickOnDashBoard"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+
+<!--            <class name="com.crm.qa.testcases.DashBoardTest">-->
+<!--                <methods>-->
+<!--                    <include name="verifyTheDashboardLabelTest"/>-->
+<!--                    <include name="verifyTheUserName"/>-->
+<!--                    <include name="verifyTheMoveToDashBoreMenu"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+        </classes>
+    </test>
+</suite>

@@ -63,7 +63,7 @@ public class TestUtil extends TestBase {
     }
 
 
-    // code for taking ss
+    // code for taking screen shot code methods
     public static void takeScreenShotAtTheEndOfTestFailed(String getMethodName){
         File sourceFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
         String currentDir = System.getProperty("user.dir");

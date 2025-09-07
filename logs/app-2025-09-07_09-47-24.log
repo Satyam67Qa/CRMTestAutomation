@@ -1,0 +1,50 @@
+2025-09-07 09:47:24 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>It will go to the testBase
+2025-09-07 09:47:25 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>back to login page
+2025-09-07 09:47:25 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>>start BeforeMethod
+2025-09-07 09:47:25 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>>>>>>>>>>>>>>>>>>>>>>Start Driver <<<<<<<<<<<<<<<<<<<<<<
+2025-09-07 09:47:31 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>launch the browser
+2025-09-07 09:47:31 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>entering application URL
+2025-09-07 09:47:31 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>start login into the application
+2025-09-07 09:47:33 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* TestCase1 :: loginPageTitleTest {start}***************************
+2025-09-07 09:47:33 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* loginPageTitleTest ***************************
+2025-09-07 09:47:39 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>loginPageTitle is >>>> Login - VWO
+2025-09-07 09:47:39 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* TestCase1 :: loginPageTitleTest ***************************
+2025-09-07 09:47:39 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* loginPageTitleTest {end}***************************
+2025-09-07 09:47:41 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>>>>>>>>>>>>>>>>>>>>>>End Driver <<<<<<<<<<<<<<<<<<<<<<
+2025-09-07 09:47:41 INFO  com.crm.qa.testcases.LoginPageTest - TearDown
+2025-09-07 09:47:41 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>>start BeforeMethod
+2025-09-07 09:47:41 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>>>>>>>>>>>>>>>>>>>>>>Start Driver <<<<<<<<<<<<<<<<<<<<<<
+2025-09-07 09:47:45 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>launch the browser
+2025-09-07 09:47:45 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>entering application URL
+2025-09-07 09:47:45 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>start login into the application
+2025-09-07 09:47:45 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* TestCase2 :: CRMLOGOImageTest {start}***************************
+2025-09-07 09:47:45 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* CRMLOGOImageTest ***************************
+2025-09-07 09:47:45 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>loginPageLOGO is >>>> true
+2025-09-07 09:47:45 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* TestCase2 :: CRMLOGOImageTest ***************************
+2025-09-07 09:47:45 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* CRMLOGOImageTest {end}***************************
+2025-09-07 09:47:48 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>>>>>>>>>>>>>>>>>>>>>>End Driver <<<<<<<<<<<<<<<<<<<<<<
+2025-09-07 09:47:48 INFO  com.crm.qa.testcases.LoginPageTest - TearDown
+2025-09-07 09:47:48 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>>start BeforeMethod
+2025-09-07 09:47:48 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>>>>>>>>>>>>>>>>>>>>>>Start Driver <<<<<<<<<<<<<<<<<<<<<<
+2025-09-07 09:47:56 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>launch the browser
+2025-09-07 09:47:56 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>entering application URL
+2025-09-07 09:47:56 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>start login into the application
+2025-09-07 09:47:56 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* TestCase3 :: validLoginTest {start}***************************
+2025-09-07 09:47:56 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* validLoginTest ***************************
+2025-09-07 09:47:56 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>loginPage login with valid username and password is >>>> satyam@neert.com
+2025-09-07 09:47:57 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* TestCase3 :: validLoginTest {end}***************************
+2025-09-07 09:47:57 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* validLoginTest ***************************
+2025-09-07 09:48:02 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>>>>>>>>>>>>>>>>>>>>>>End Driver <<<<<<<<<<<<<<<<<<<<<<
+2025-09-07 09:48:02 INFO  com.crm.qa.testcases.LoginPageTest - TearDown
+2025-09-07 09:48:02 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>>start BeforeMethod
+2025-09-07 09:48:02 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>>>>>>>>>>>>>>>>>>>>>>Start Driver <<<<<<<<<<<<<<<<<<<<<<
+2025-09-07 09:48:10 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>launch the browser
+2025-09-07 09:48:10 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>entering application URL
+2025-09-07 09:48:10 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>start login into the application
+2025-09-07 09:48:10 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* TestCase4 :: invalidLoginTest {start}***************************
+2025-09-07 09:48:10 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>********************************* invalidLoginTest ************************************************
+2025-09-07 09:48:10 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>loginPage login with invalid username and password is >>>> satyam@neer.com
+2025-09-07 09:48:14 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>> checking the error message
+2025-09-07 09:48:14 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>> found the error messageYour email, password, IP address or location did not match
+2025-09-07 09:48:14 INFO  com.crm.qa.testcases.LoginPageTest - loginfo>>>>>>>>>>>>>>>>>>>>>>>End Driver <<<<<<<<<<<<<<<<<<<<<<
+2025-09-07 09:48:14 INFO  com.crm.qa.testcases.LoginPageTest - TearDown

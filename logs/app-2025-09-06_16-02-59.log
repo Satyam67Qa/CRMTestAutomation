@@ -1,0 +1,14 @@
+2025-09-06 16:02:59 INFO  com.crm.qa.testcases.LoginPageTest - It will go to the testBase
+2025-09-06 16:02:59 INFO  com.crm.qa.testcases.LoginPageTest - back to login page
+2025-09-06 16:02:59 INFO  com.crm.qa.testcases.LoginPageTest - start BeforeMethod
+2025-09-06 16:02:59 INFO  com.crm.qa.testcases.LoginPageTest - >>>>>>>>>>>>>>>>>>>>>>>Start Driver <<<<<<<<<<<<<<<<<<<<<<
+2025-09-06 16:03:11 INFO  com.crm.qa.testcases.LoginPageTest - launch the browser
+2025-09-06 16:03:11 INFO  com.crm.qa.testcases.LoginPageTest - entering application URL
+2025-09-06 16:03:11 INFO  com.crm.qa.testcases.LoginPageTest - start login into the application
+2025-09-06 16:03:11 INFO  com.crm.qa.testcases.LoginPageTest - ********************************* TestCase1 :: loginPageTitleTest {start}***************************
+2025-09-06 16:03:11 INFO  com.crm.qa.testcases.LoginPageTest - ********************************* loginPageTitleTest ***************************
+2025-09-06 16:03:11 INFO  com.crm.qa.testcases.LoginPageTest - loginPageTitle is >>>> Login - VWO
+2025-09-06 16:03:11 INFO  com.crm.qa.testcases.LoginPageTest - ********************************* TestCase1 :: loginPageTitleTest ***************************
+2025-09-06 16:03:11 INFO  com.crm.qa.testcases.LoginPageTest - ********************************* loginPageTitleTest {end}***************************
+2025-09-06 16:03:13 INFO  com.crm.qa.testcases.LoginPageTest - >>>>>>>>>>>>>>>>>>>>>>>End Driver <<<<<<<<<<<<<<<<<<<<<<
+2025-09-06 16:03:13 INFO  com.crm.qa.testcases.LoginPageTest - TearDown

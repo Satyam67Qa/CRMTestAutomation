@@ -26,7 +26,7 @@ public class HomePageGetStartedTest extends TestBase {
         initialization();
         loginPage = new LoginPage();
         dashboardPage = new DashboardPage();
-        homePageGetStarted = loginPage.login(properties.getProperty("username"), properties.getProperty("password"));
+        homePageGetStarted = loginPage.validateLogin(properties.getProperty("username"), properties.getProperty("password"));
     }
 
     @Test(priority = 1)

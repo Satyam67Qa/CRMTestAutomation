@@ -6,11 +6,63 @@
   <component name="ChangeListManager">
     <list default="true" id="bc242320-7d01-40bb-98a7-4117458c34a5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/base/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/config/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/util/TestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/util/TestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/CRMLOGOImageTest_1757089088708_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/CRMLOGOImageTest_1757131410188_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/CRMLOGOImageTest_1757136234143_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/invalidLoginTest_1757133560879_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/invalidLoginTest_1757133726025_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/invalidLoginTest_1757133792411_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/invalidLoginTest_1757134070773_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/invalidLoginTest_1757134709248_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/invalidLoginTest_1757135106819_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/invalidLoginTest_1757136263962_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/invalidLoginTest_1757136762065_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/loginPageTitleTest_1757089079279_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/loginPageTitleTest_1757131403732_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/loginPageTitleTest_1757136223005_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/loginTest_1757089104062_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/loginTest_1757131427077_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/loginTest_1757136252072_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyPageLabelTest_1757089127846_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyPageLabelTest_1757131361561_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyPageLabelTest_1757136182066_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheDashboardLabelTest_1757088308336_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheDashboardLabelTest_1757088417134_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheDashboardLabelTest_1757089174538_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheDashboardLabelTest_1757131295151_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheDashboardLabelTest_1757136092305_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheMenu_1757089142583_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheMenu_1757131379416_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheMenu_1757136200466_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheMoveToDashBoreMenu_1757088434504_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheMoveToDashBoreMenu_1757089193271_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheMoveToDashBoreMenu_1757131313570_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheMoveToDashBoreMenu_1757136110861_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheUserName_1757088235350_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheUserName_1757088933416_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheUserName_1757089214354_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheUserName_1757131336575_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyTheUserName_1757136150849_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyToClickOnDashBoard_1757089156698_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyToClickOnDashBoard_1757131394806_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/Passed/verifyToClickOnDashBoard_1757136214951_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/failed/invalidLoginTest_1757133304973_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/failed/invalidLoginTest_1757133644367_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/failed/invalidLoginTest_1757136637807_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/failed/verifyHomePageGetStartedTitleTest_1757089114104_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/failed/verifyHomePageGetStartedTitleTest_1757131346782_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/failed/verifyHomePageGetStartedTitleTest_1757136163299_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Screenshots/failed/verifyTheUserName_1757088468752_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testrunner/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/DashBoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/DashBoardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/HomePageGetStartedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/HomePageGetStartedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +73,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -33,29 +86,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Workspace/CRMTestAutomation/src/main/java/com/crm/qa/testdata",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.40689656"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/CRMTestAutomation/src/main/java/com/crm/qa/testdata&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.40689656&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Workspace\CRMTestAutomation\src\main\java\com\crm\qa\testdata" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\CRMTestAutomation\src\main\resources\testrunner" />
       <recent name="C:\Workspace\CRMTestAutomation\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LoginPageTest.invalidLoginTest">
-    <configuration name="C:/Workspace/CRMTestAutomation/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Workspace/CRMTestAutomation/src/main/resources/testrunner/testng_regression.xml">
+    <configuration name="C:/Workspace/CRMTestAutomation/src/main/resources/testrunner/testng_regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CRMTest" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testrunner/testng_regression.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -63,60 +118,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DashBoardTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CRMTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.crm.qa.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.DashBoardTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DashBoardTest.verifyTheDashboardLabelTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CRMTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.crm.qa.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.DashBoardTest" />
-      <option name="METHOD_NAME" value="verifyTheDashboardLabelTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DashBoardTest.verifyTheUserName" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CRMTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.crm.qa.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.DashBoardTest" />
-      <option name="METHOD_NAME" value="verifyTheUserName" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginPageTest.invalidLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CRMTest" />
       <extension name="coverage">
         <pattern>
@@ -126,7 +128,60 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
       <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.LoginPageTest" />
-      <option name="METHOD_NAME" value="invalidLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.CRMLOGOImageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CRMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.LoginPageTest" />
+      <option name="METHOD_NAME" value="CRMLOGOImageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.loginPageTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CRMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.LoginPageTest" />
+      <option name="METHOD_NAME" value="loginPageTitleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CRMTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.LoginPageTest" />
+      <option name="METHOD_NAME" value="loginTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -136,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginPageTest.invalidLoginTest" />
-        <item itemvalue="TestNG.C:/Workspace/CRMTestAutomation/src/main/resources/testng.xml" />
-        <item itemvalue="TestNG.DashBoardTest.verifyTheUserName" />
-        <item itemvalue="TestNG.DashBoardTest" />
-        <item itemvalue="TestNG.DashBoardTest.verifyTheDashboardLabelTest" />
+        <item itemvalue="TestNG.C:/Workspace/CRMTestAutomation/src/main/resources/testrunner/testng_regression.xml" />
+        <item itemvalue="TestNG.LoginPageTest" />
+        <item itemvalue="TestNG.LoginPageTest.loginPageTitleTest" />
+        <item itemvalue="TestNG.LoginPageTest.CRMLOGOImageTest" />
+        <item itemvalue="TestNG.LoginPageTest.loginTest" />
       </list>
     </recent_temporary>
   </component>

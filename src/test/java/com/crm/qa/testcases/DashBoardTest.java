@@ -27,7 +27,7 @@ public class DashBoardTest extends TestBase {
         dashboardPage= new DashboardPage();
         homePageGetStarted= new HomePageGetStartedPage();
 
-        homePageGetStarted = loginPage.login(properties.getProperty("username"), properties.getProperty("password"));
+        homePageGetStarted = loginPage.validateLogin(properties.getProperty("username"), properties.getProperty("password"));
 
        dashboardPage = homePageGetStarted.clickOnDashboard();
     }

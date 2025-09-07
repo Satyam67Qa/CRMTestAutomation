@@ -27,9 +27,9 @@ public class TestBase {
     public TestBase() {
         try {
             properties = new Properties();
-            System.out.println(System.getProperty("user.dir"));
+           // System.out.println(System.getProperty("user.dir"));
             String fileName = System.getProperty("user.dir") + "/src/main/java/com/crm/qa/config/config.properties";
-            System.out.println(fileName);
+          //  System.out.println(fileName);
             properties.load(new FileInputStream(fileName));
         } catch (FileNotFoundException fileNotFoundException) {
             fileNotFoundException.printStackTrace();
